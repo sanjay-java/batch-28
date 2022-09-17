@@ -1,0 +1,3 @@
+- Given a string, write a program to find number of vowels in that string.
+- Given a string, write a program to reverse a string. do not use reverse function.
+- Given an integer array, write a program to find the largest and smallest number in the array. Do not use Arrays.sort
